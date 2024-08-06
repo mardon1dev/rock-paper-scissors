@@ -32,16 +32,14 @@ body {
     border-radius: 5px;
     transition: all 0.3s ease-in-out;
   }
-  
-  button:hover {
-    opacity: 0.7;
+  .opacity{
+    opacity: .5;
   }
-  
   #tosh {
     background-color: #ff0000;
   }
   
-  .qogoz {
+  #qogʻoz{
     background-color: #2196f3;
   }
   
